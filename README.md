@@ -1,5 +1,5 @@
 Fasta benchmark
-===============
+---------------
 
 Go/Golang parallel implementation of the Fasta benchmark for the [Computer
 Language Benchmarks Game], ranked as the top Golang version (see [Fasta
