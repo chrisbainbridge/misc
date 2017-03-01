@@ -8,8 +8,8 @@ rankings] for program _Go #3_).
 Publications
 ------------
 
-PhD thesis: _[Digital Control Networks For Virtual Creatures]_, University of Edinburgh, 2010
-Undergraduate thesis: _[Evolving Controllers for Walking Robots]_, University of Edinburgh, 2001
+* PhD thesis: _[Digital Control Networks For Virtual Creatures]_, University of Edinburgh, 2010
+* Undergraduate thesis: _[Evolving Controllers for Walking Robots]_, University of Edinburgh, 2001
 
 [Computer Language Benchmarks Game]: http://benchmarksgame.alioth.debian.org
 [Fasta rankings]: http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=fasta
